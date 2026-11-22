@@ -15,6 +15,9 @@ Install
 unzip to game folder, only tested with virtual desktop XR
   make sure no controller is connected in VR session might a players 2
 
+**[Nefarius ViGEmBus](https://github.com/nefarius/ViGEmBus/releases) support - with the driver installed (ViGEmBusSetup_x64.msi in the zip) the VR
+        controllers are a real virtual Xbox 360 controller ([Controls] InputMethod = Auto / ViGEm / InputSystem).**
+
 The views
 ---------
 TAP R3 **(right stick click) ... first person <-> third person. Hold R3 (0.5 s) = the game's own R3.**
